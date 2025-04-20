@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooManagement.Domain", "src/ZooManagement.Domain/ZooManagement.Domain.csproj", "{GUID_DOMAIN}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooManagement.Application", "src/ZooManagement.Application/ZooManagement.Application.csproj", "{GUID_APP}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooManagement.Infrastructure", "src/ZooManagement.Infrastructure/ZooManagement.Infrastructure.csproj", "{GUID_INFRA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooManagement.WebApi", "src/ZooManagement.WebApi/ZooManagement.WebApi.csproj", "{GUID_WEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooManagement.Tests", "tests/ZooManagement.Tests/ZooManagement.Tests.csproj", "{GUID_TEST}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {GUID_DOMAIN}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {GUID_DOMAIN}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {GUID_APP}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {GUID_APP}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {GUID_INFRA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {GUID_INFRA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {GUID_WEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {GUID_WEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {GUID_TEST}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {GUID_TEST}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    EndGlobalSection
+EndGlobal

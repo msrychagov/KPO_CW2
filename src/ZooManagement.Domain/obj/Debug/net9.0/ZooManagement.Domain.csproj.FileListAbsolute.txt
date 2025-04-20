@@ -1,0 +1,11 @@
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/bin/Debug/net9.0/ZooManagement.Domain.deps.json
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/bin/Debug/net9.0/ZooManagement.Domain.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/bin/Debug/net9.0/ZooManagement.Domain.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.AssemblyInfoInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.AssemblyInfo.cs
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/refint/ZooManagement.Domain.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ZooManagement.Domain.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Domain/obj/Debug/net9.0/ref/ZooManagement.Domain.dll

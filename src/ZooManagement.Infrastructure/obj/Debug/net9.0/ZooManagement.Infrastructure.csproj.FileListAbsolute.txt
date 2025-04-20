@@ -1,0 +1,17 @@
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Infrastructure.deps.json
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Infrastructure.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Infrastructure.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Application.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Domain.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Domain.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/bin/Debug/net9.0/ZooManagement.Application.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.AssemblyInfo.cs
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManag.70B65252.Up2Date
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/refint/ZooManagement.Infrastructure.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ZooManagement.Infrastructure.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Infrastructure/obj/Debug/net9.0/ref/ZooManagement.Infrastructure.dll

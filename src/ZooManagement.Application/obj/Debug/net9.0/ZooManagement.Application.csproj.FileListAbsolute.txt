@@ -1,0 +1,15 @@
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/bin/Debug/net9.0/ZooManagement.Application.deps.json
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/bin/Debug/net9.0/ZooManagement.Application.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/bin/Debug/net9.0/ZooManagement.Application.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/bin/Debug/net9.0/ZooManagement.Domain.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/bin/Debug/net9.0/ZooManagement.Domain.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.csproj.AssemblyReference.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.AssemblyInfoInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.AssemblyInfo.cs
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.csproj.CoreCompileInputs.cache
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManag.5E32B411.Up2Date
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/refint/ZooManagement.Application.dll
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ZooManagement.Application.pdb
+/Users/mixail.rychagov/Downloads/Задание по КПО/src/ZooManagement.Application/obj/Debug/net9.0/ref/ZooManagement.Application.dll
