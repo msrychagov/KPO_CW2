@@ -47,49 +47,58 @@
 
 ---
 
+# 🦁 ZooManagement
+
+Автоматизированная система управления зоопарком на стеке  
+C# / .NET 9.0 / ASP.NET Core Web API / xUnit  
+(DDD + Clean Architecture)
+
+---
+
 ## 📂 Структура репозитория
 
-```
-ZooManagement.sln
-├── src
-│   ├── ZooManagement.Domain           # Domain Layer
-│   │   ├── DomainEvents.cs            # Диспетчер доменных событий
-│   │   ├── Entities/
-│   │   │   ├── Animal.cs
-│   │   │   ├── Enclosure.cs
-│   │   │   └── FeedingSchedule.cs
-│   │   ├── Events/
-│   │   │   ├── AnimalMovedEvent.cs
-│   │   │   └── FeedingTimeEvent.cs
-│   │   └── ValueObjects/
-│   │       ├── Gender.cs
-│   │       └── EnclosureType.cs
-│   ├── ZooManagement.Application      # Application Layer
-│   │   ├── Interfaces/
-│   │   │   ├── IAnimalRepository.cs
-│   │   │   ├── IEnclosureRepository.cs
-│   │   │   └── IFeedingScheduleRepository.cs
-│   │   └── Services/
-│   │       ├── AnimalTransferService.cs
-│   │       ├── FeedingOrganizationService.cs
-│   │       └── ZooStatisticsService.cs
-│   ├── ZooManagement.Infrastructure   # Infrastructure Layer
-│   │   └── Repositories/
-│   │       ├── InMemoryAnimalRepository.cs
-│   │       ├── InMemoryEnclosureRepository.cs
-│   │       └── InMemoryFeedingScheduleRepository.cs
-│   └── ZooManagement.WebApi           # Presentation Layer
-│       ├── Program.cs                 # Настройка DI, Swagger, маршрутизация
-│       └── Controllers/
-│           ├── AnimalsController.cs
-│           ├── EnclosuresController.cs
-│           └── FeedingSchedulesController.cs
-└── tests
-    └── ZooManagement.Tests            # Unit Tests (xUnit)
-        ├── DomainTests/
-        │   └── AnimalTests.cs
-        └── ApplicationTests/
-            └── AnimalTransferServiceTests.cs
+- **ZooManagement.sln**  
+- **src/**
+  - **ZooManagement.Domain/** *(Domain Layer)*
+    - `DomainEvents.cs`  
+    - **Entities/**
+      - `Animal.cs`  
+      - `Enclosure.cs`  
+      - `FeedingSchedule.cs`  
+    - **Events/**
+      - `AnimalMovedEvent.cs`  
+      - `FeedingTimeEvent.cs`  
+    - **ValueObjects/**
+      - `Gender.cs`  
+      - `EnclosureType.cs`  
+  - **ZooManagement.Application/** *(Application Layer)*
+    - **Interfaces/**
+      - `IAnimalRepository.cs`  
+      - `IEnclosureRepository.cs`  
+      - `IFeedingScheduleRepository.cs`  
+    - **Services/**
+      - `AnimalTransferService.cs`  
+      - `FeedingOrganizationService.cs`  
+      - `ZooStatisticsService.cs`  
+  - **ZooManagement.Infrastructure/** *(Infrastructure Layer)*
+    - **Repositories/**
+      - `InMemoryAnimalRepository.cs`  
+      - `InMemoryEnclosureRepository.cs`  
+      - `InMemoryFeedingScheduleRepository.cs`  
+  - **ZooManagement.WebApi/** *(Presentation Layer)*
+    - `Program.cs`  
+    - **Controllers/**
+      - `AnimalsController.cs`  
+      - `EnclosuresController.cs`  
+      - `FeedingSchedulesController.cs`  
+- **tests/**
+  - **ZooManagement.Tests/** *(Unit Tests)*
+    - **DomainTests/**
+      - `AnimalTests.cs`  
+    - **ApplicationTests/**
+      - `AnimalTransferServiceTests.cs`  
+
+---
 ```
 
 ---
