@@ -212,18 +212,3 @@ https://localhost:5001/swagger
 
 ---
 
-## 📚 Ресурсы и литература
-
-- **Domain‑Driven Design** — Eric Evans  
-- **Implementing Domain‑Driven Design** — Vaughn Vernon  
-- **Clean Architecture** — Robert C. Martin  
-- **ASP.NET Core Web API** — Microsoft Docs  
-- **Swashbuckle / Swagger** — https://github.com/domaindrivendev/Swashbuckle.AspNetCore  
-
----
-
-## ✍️ Автор
-
-**[Ваше Имя]** — студент, Выполнил ДЗ по курсу «Конструирование ПО»  
-По вопросам и предложениям — создавайте Issues или PR в этом репозитории.  
-```
